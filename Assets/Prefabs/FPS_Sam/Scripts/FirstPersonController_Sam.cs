@@ -208,7 +208,10 @@ public class FirstPersonController_Sam : MonoBehaviour
         canMove = false;
     }
 
-    
+    public void CloseGame() 
+    {
+        Application.Quit();
+    }
 
     private void ApplyFinalMovement()
     {
