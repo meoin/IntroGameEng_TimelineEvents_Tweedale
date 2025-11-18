@@ -826,11 +826,6 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 854832233956487948, guid: c5cf48605dead044dbdeceff9c89e3cd, type: 3}
   m_PrefabInstance: {fileID: 1395198668}
   m_PrefabAsset: {fileID: 0}
---- !u!82 &414266494 stripped
-AudioSource:
-  m_CorrespondingSourceObject: {fileID: 3830097780287281690, guid: c5cf48605dead044dbdeceff9c89e3cd, type: 3}
-  m_PrefabInstance: {fileID: 1395198668}
-  m_PrefabAsset: {fileID: 0}
 --- !u!95 &414266495 stripped
 Animator:
   m_CorrespondingSourceObject: {fileID: 643174261373516451, guid: c5cf48605dead044dbdeceff9c89e3cd, type: 3}
@@ -1231,11 +1226,6 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 854832233956487948, guid: c5cf48605dead044dbdeceff9c89e3cd, type: 3}
   m_PrefabInstance: {fileID: 651125069}
   m_PrefabAsset: {fileID: 0}
---- !u!82 &756359520 stripped
-AudioSource:
-  m_CorrespondingSourceObject: {fileID: 3830097780287281690, guid: c5cf48605dead044dbdeceff9c89e3cd, type: 3}
-  m_PrefabInstance: {fileID: 651125069}
-  m_PrefabAsset: {fileID: 0}
 --- !u!95 &756359521 stripped
 Animator:
   m_CorrespondingSourceObject: {fileID: 643174261373516451, guid: c5cf48605dead044dbdeceff9c89e3cd, type: 3}
@@ -1575,12 +1565,8 @@ PlayableDirector:
     value: {fileID: 2019810139}
   - key: {fileID: -1509029704992339598, guid: fb5e62f6810299f4d9c4fb46ea9aa4bd, type: 2}
     value: {fileID: 756359521}
-  - key: {fileID: -5042670625484922714, guid: fb5e62f6810299f4d9c4fb46ea9aa4bd, type: 2}
-    value: {fileID: 756359520}
   - key: {fileID: 1683164787782180316, guid: fb5e62f6810299f4d9c4fb46ea9aa4bd, type: 2}
     value: {fileID: 414266495}
-  - key: {fileID: 818975151453813003, guid: fb5e62f6810299f4d9c4fb46ea9aa4bd, type: 2}
-    value: {fileID: 414266494}
   m_ExposedReferences:
     m_References: []
 --- !u!4 &1263832231
